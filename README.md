@@ -2,6 +2,6 @@
 Remini-Web-Project
 -------------
 <html>
-  <b><p>feyzanın web sitesidir git</p></b>
+  <b><p>Remini sosyal web sitesidir.</p></b>
   <hr>
 </html>
